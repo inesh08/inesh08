@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Inesh Shanmugam
 
 ### 🚀 Full-Stack Developer | AI Enthusiast | Speed Skater
-I am a 4th-semester Computer Science student at **PES University**, focused on building scalable, high-performance applications with a focus on modern UI/UX and AI integration.
+I am a 6th-semester Computer Science student at **PES University**, focused on building scalable, high-performance applications with a focus on modern UI/UX and AI integration.
 
 ---
 
