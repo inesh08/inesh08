@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Inesh Shanmugam
 
-### 🚀 6th Sem Computer Science Student | Full-Stack & AI | Cybersecurity
+### 🚀 7th Sem Computer Science Student | Full-Stack & AI | Cybersecurity
 I am a 7th-semester CS student at **PES University**, currently specializing in **Zero Trust Architectures** and **Full-Stack AI Integration**. I bridge the gap between secure backend infrastructure and seamless frontend experiences.
 
 ---
